@@ -29,15 +29,16 @@ body {
 
 }
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
     .formulario {
-        width: 100vw;
+        width: 96.5vw;
+       
     }
     
 }
 
 .formStyling {
-    width: 15vw;
+    width: 65vw;
 }
 
 .formItem {
